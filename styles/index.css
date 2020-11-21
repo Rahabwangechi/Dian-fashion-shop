@@ -14,6 +14,12 @@
     text-align: left;
     padding-left: 2px;
 }
+{
+    .zip{
+    position: absolute;
+    left: 78%;
+    top: 19%;
+ }
 .cover{
     background-image:url("https://raw.githubusercontent.com/Rahabwangechi/Dian-fashion-shop/main/images/pexels.jpg");
     background-attachment: fixed;
